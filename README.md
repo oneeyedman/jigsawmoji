@@ -12,3 +12,7 @@ You can find **four versions** of the "Jigsawmoji":
 * 1200x1200, transparent background, SVG
 
 **Enjoy!** (or not)
+
+***
+## Credits
+Mask spirals from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_bold_spiral.svg)
